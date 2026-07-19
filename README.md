@@ -49,19 +49,19 @@
 
 ### 1. 启动与领取提示
 
-![Telegram代理机器人启动页面](assets/01-start-screen.jpg)
+![Telegram代理机器人启动页面](01-start-screen.jpg)
 
 启动页展示关注说明、线路领取入口和每日更新提示；截图不包含实际代理凭据。
 
 ### 2. 机器人资料页
 
-![TG代理机器人资料页](assets/02-bot-profile.jpg)
+![TG代理机器人资料页](02-bot-profile.jpg)
 
 资料页用于核对当前机器人的公开用户名和简介。
 
 ### 3. Telegram搜索核验
 
-![Telegram搜索中的代理机器人](assets/03-search-verification.jpg)
+![Telegram搜索中的代理机器人](03-search-verification.jpg)
 
 通过 Telegram 搜索核对 @csok2bot，避免误入用户名相近的账号。
 
